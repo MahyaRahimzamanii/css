@@ -1,0 +1,31 @@
+fieldset{
+  background-color:salmon;
+}
+legend{
+    background-color: salmon;
+}
+    
+.horizontal{
+    color: midnightblue;
+}
+#hr{
+    color: red;
+}
+@font-face {
+    font-family:"vazir font";
+    src: url(../css/session-9-main/fonts/Vazir.woff);
+}
+body{
+    font-family: "vazir font";
+    direction: rtl;
+    font-weight: 600;
+    font-size: 16px;
+}
+legend{
+font-weight: 900;
+font-size: 32px;
+}
+textarea{
+    text-decoration: underline;
+    text-decoration-color:maroon;
+}
